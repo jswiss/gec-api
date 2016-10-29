@@ -1,0 +1,28 @@
+{
+    "model": "Project",
+  "documents": [
+    {
+      "country": "Somalia",
+      "projects": [
+        {
+          "name": "Somali Girls' Education Promotion Programme",
+          "acronym": "SOMGEP",
+          "projectNumber": "5274",
+          "leadOrg": "Care International",
+          "partnerOrg": "ADRA",
+          "schools": []            
+        },
+        {
+          "name": "Educating Girls Eliminating Poverty",
+          "acronym": "EGEP",
+          "projectNumber": "5253",
+          "leadOrg": "Relief International",
+          "partnerOrg": "CISP",
+          "schools": []
+        }
+      ]
+    }
+  ]
+}
+
+        
